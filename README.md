@@ -1,12 +1,10 @@
-# C Programming Practice
+# Python Programming Practice
 
-This repository contains my personal C programming practice while building strong foundations in:
+This repository contains Python practice scripts covering:
 
-- Control flow
-- Functions
-- Arrays & strings
-- Pointers (basics)
-- Problem-solving in C
+- Core language constructs
+- Data structures
+- Functions and file handling
+- Basic algorithms
 
-The code reflects continuous learning and improvement.
-More structured refactoring and advanced topics will be added over time.
+The focus is on clarity, consistency, and gradual improvement.
